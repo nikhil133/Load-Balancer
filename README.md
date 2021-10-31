@@ -2,7 +2,7 @@
 
 ## Work flow based on code snippet
 
-![Load Balancer workflow](https://github.com/nikhil133/Load-Balancer/blob/main/loadbalancer.png)
+![Load Balancer workflow](loadbalancer.png)
 
 
 ## Trade-offs:
