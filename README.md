@@ -2,7 +2,7 @@
 
 ## Work flow based on code snippet
 
-    ![This is a alt text.](./loadbalancer.png)
+    ![This is a alt text.](/loadbalancer.png)
 
 
 ## Trade-offs:
