@@ -2,7 +2,7 @@
 
 ## Work flow based on code snippet
 
-![alt text](https://github.com/nikhil133/Logistic-Coding-Scheme/blob/main/Screenshot%202020-11-01%20at%2012.40.07%20AM.png)
+![Load Balancer workflow](https://github.com/nikhil133/Load-Balancer/blob/main/loadbalancer.png)
 
 
 ## Trade-offs:
