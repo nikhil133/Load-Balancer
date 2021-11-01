@@ -20,7 +20,7 @@
     3. Implementing separate health check goroutine which will be used to monitor health of workers or time-service which are registered in reference to the point of improvement mentioned above.
     4. Implementing different scheduler algorithms to schedule workers for request along with serving capacity in real time. And using it on the basis of, at which level load balancer is to be used and in which manner(internal/external).
     5. Improving spawn controller event to register instance on the basis of config file feed.
-    6. Change in method declaration syntax. Methods should be implemented using load balancer type.
+    6. Change in method declaration syntax. Methods should be implemented using load balancer reciever.
     7. Enhancement in controller feature for security. 
         7.1 Token controller event: Use this token while spawning.
         7.2 Kill All: To remove all worker nodes which are obsolete, to avoid use of server resources in case of any network breach.
